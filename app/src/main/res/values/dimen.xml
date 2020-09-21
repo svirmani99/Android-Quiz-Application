@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="padding1">20dp</dimen>
+    <dimen name="padding2">10dp</dimen>
+    <dimen name="logo_height">183dp</dimen>
+</resources>
